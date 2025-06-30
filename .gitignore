@@ -1,0 +1,14 @@
+# Ignore build artifacts
+a.out
+*.out
+*.exe
+*.o
+*.obj
+*.gch
+
+# VS Code settings
+.vscode/
+
+# Ignore all executables in root (optional)
+main
+myprogram
